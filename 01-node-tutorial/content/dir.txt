@@ -1,10 +1,3 @@
-dir.txt
-first.txt
-result-async.txt
-result-mind-grenade.txt
-result-sync.txt
-second.txt
-subfolder
 .gitignore
 01-intro.js
 02-globals.js
